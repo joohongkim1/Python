@@ -1,1 +1,1 @@
-
+alias jn="jupyter notebook"
