@@ -77,14 +77,7 @@
 ## 6.  
 
 def lonely(numbers):
-    for i in range(len(numbers)-1):
-        if numbers[i] == numbers[i+1]:
-            print(numbers)
-    return numbers
-        
-print(lonely([1, 1, 3, 3, 0, 1, 1]))
-print(lonely([4,4,4,3,3]))
-
+    
 
 
 
